@@ -1,8 +1,14 @@
 #Numero maximo
 """
-"""
+Este es un código el cual se basa en buscar el número mayor en
+una determinada lista.
 
-def buscar_maximo(lista: list):
+Yuliana Santa Ramírez
+c.c. 1089602220
+Universidad Tecnologica de Pereira
+11/04/2026
+"""
+def buscar_maximo(lista):
     """
     Encontrar el valor maximo de una lista
 
